@@ -1,0 +1,11 @@
+pip==21.3.1
+setuptools==57.0.0
+wheel==0.36.2
+
+python-dotenv==0.20.0
+tensorflow-gpu==2.3.0
+opencv-python~=4.4.0.46
+opencv-contrib-python~=4.5.5
+numpy~=1.18.5
+Pillow~=8.4.0
+dlib~=19.22.1
